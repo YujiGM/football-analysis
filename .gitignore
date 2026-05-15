@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# API Key
+.env
+
+# Cache da API
+data/cache/
+
+# Exports gerados
+data/exports/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
